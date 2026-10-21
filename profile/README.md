@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 🌱 Sustainable IT & Lifecycle Management (Green IT Policy)
+
+FAOS ASIA is committed to minimizing the environmental impact of our technology footprint. We apply Sustainable IT practices across all operations:
+
+* **Life Cycle Assessment (LCA):** Monitoring device usage, power consumption, and lifespan to optimize IT asset sustainability.
+* **Manufacturing & Usage Scope Awareness:** Evaluating carbon emissions and resource depletion from both hardware procurement and daily active uptime.
+* **Cloud & Server Efficiency:** Prioritizing green cloud environments and server-side workload optimizations.
+* **Asset Optimization:** Utilizing open-source IT asset tracking tools (such as GLPI Carbon) to identify high-impact hardware and enforce sustainable recycling/upgrading.
+
 <!--
 
 **Here are some ideas to get you started:**
