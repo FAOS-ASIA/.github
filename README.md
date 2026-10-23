@@ -29,3 +29,34 @@ FAOS ASIA is committed to minimizing the environmental impact of our technology 
 * **Asset Optimization:** Utilizing open-source IT asset tracking tools to identify high-impact hardware and enforce sustainable recycling or upgrading.
 
 > 💡 *FAOS ASIA is committed to driving sustainable technology solutions across international borders.*
+
+FAOS ASIA (Logo)
+├── 1. Products & Solutions (ผลิตภัณฑ์และบริการ) ▾ (Mega Menu)
+│   ├── ⚡ Energy & Carbon Management Software
+│   │   ├── Carbon Footprint Tracking & ESG Reporting
+│   │   └── IoT/AI Energy Management Systems (EMS)
+│   ├── 🚚 Supply Chain & Smart Logistics
+│   │   ├── Fleet Optimization & Route Planning
+│   │   └── Paperless & Digital Workflow Systems
+│   ├── ☁️ Green Cloud & Infrastructure
+│   │   ├── Green Cloud Migration Services
+│   │   └── Server & Architecture Optimization
+│   └── 🤖 Precision Tech & Industrial Automation
+│       └── AI/ML QA & Defect Reduction Systems
+├── 2. Industries (กลุ่มอุตสาหกรรมเป้าหมาย) ▾
+│   ├── Manufacturing & Heavy Industry
+│   ├── Logistics & Supply Chain
+│   ├── Commercial Buildings & Real Estate
+│   └── Enterprise & IT Infrastructure
+├── 3. Standards & Compliance (มาตรฐานที่รองรับ)
+│   ├── GHG Protocol & ISO 14064 / ISO 50001
+│   ├── GRI, TCFD & Regional ESG Frameworks
+│   └── CBAM & Cross-Border Export Compliance
+├── 4. Pricing (ราคาและแพ็กเกจ)
+├── 5. Resources & Insights (บทความ/เคสศึกษา)
+│   ├── Case Studies & Success Stories
+│   ├── Carbon & Energy Calculators
+│   └── ESG Compliance Guides
+└── [CTA Buttons Group]
+    ├── 🌐 Language Switcher (EN | TH | ZH)
+    └── [ Request Demo / Free Trial ] (Highlight Button)
